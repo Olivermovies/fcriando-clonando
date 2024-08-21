@@ -1,4 +1,4 @@
-qeeqwe# fcriando-clonando
+ comentando na brancch remotaqeeqwe# fcriando-clonando
 Criando e CLonando  repositorios
 <<<<<<< HEAD
   antesdo clone
